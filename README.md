@@ -13,7 +13,9 @@
  - Reposição de peças de um chamado
 
 ### Atenção
-Sistema não desenvolvido para uso em mobile, seu uso não é impossibilitado mas podem ocorrer alguns bugs visuais
+Sistema não desenvolvido para uso em mobile, seu uso não é impossibilitado mas podem ocorrer alguns bugs visuais.
+
+Resolução mínima recomendada: 1600x900.
 
 ## Imagens
 ### Nova O.S
