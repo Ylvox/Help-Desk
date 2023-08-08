@@ -12,6 +12,9 @@
  - Atualização de observações do chamado
  - Reposição de peças de um chamado
 
+### Atenção
+Sistema não desenvolvido para uso em mobile, seu uso não é impossibilitado mas podem ocorrer alguns bugs visuais
+
 ## Imagens
 ### Nova O.S
 <img src="/prints/novaos.jpg">
