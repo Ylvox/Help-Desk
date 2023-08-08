@@ -203,3 +203,4 @@ Cadastro de equipamentos, estabelecimentos, peças, setores. Devem ser feitas ma
 
 Pelo menos uma conta do tipo ADM deve ser cadastrada manualmente no banco de dados para uso das funções de gerenciamento. o campo de "pwd" deve ser cadastrado em md5.
 
+- Codigo SQL em ./helpdesk.sql
