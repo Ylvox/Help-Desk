@@ -2,7 +2,15 @@
 
 > Sistema de HelpDesk com transferência de chamados e dashboard
 
- 
+### Tecnologias utilizadas
+- [x] HTML
+- [x] CSS
+- [x] JQuery
+- [x] Bootstrap
+- [x] PHP
+- [x] PHP Mailer
+- [x] HTML Purifier
+- [x] MySQL 
 
 ### Funcoes principais
  - Transferência de chamados entre setores de suporte
@@ -186,3 +194,12 @@ $linkAnexo = "http://alterar-link/help-desk/$target_file";
                             }
                         }
 ```
+
+### BANCO DE DADOS
+
+O conceito de estabelecimentos do sistema se refere a uma mesma empresa mas diferentes locais, os setores não sao cadastrados para cada estabelecimento, e sim para a empresa como um todo.
+
+Cadastro de equipamentos, estabelecimentos, peças, setores. Devem ser feitas manualmente no banco de dados, começando pelos setores e com pelo menos um setor de suporte cadastrado para cadastro dos demais campos, exceto estabelecimentos.
+
+Pelo menos uma conta do tipo ADM deve ser cadastrada manualmente no banco de dados para uso das funções de gerenciamento. o campo de "pwd" deve ser cadastrado em md5.
+
