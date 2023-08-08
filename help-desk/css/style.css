@@ -1,0 +1,34 @@
+.bg-darker {
+    background-color: #1a1d20 !important;
+}
+.bg-gray {
+    background-color: #3f3f3f !important;
+}
+.bg-lightgray {
+  background-color: #6e6e6e !important;
+}
+.bg-blue {
+  background-color: #003688 !important;
+}
+/* ------------BOTOES SIDEBAR------------ */
+.btn-darker {
+    color: #fff;
+    background-color: #1a1d20;
+  }
+  .btn-darker:hover {
+    color: #fff;
+    background-color: #003688;
+  }
+  .btn-check:focus + .btn-darker, .btn-darker:focus {
+    color: #fff;
+    background-color: #0f0f0f;
+    box-shadow: 0 0 0 0.25rem rgba(66, 70, 73, 0.5);
+  }
+  .btn-check:checked + .btn-darker, .btn-check:active + .btn-darker, .btn-darker:active, .btn-darker.active, .show > .btn-darker.dropdown-toggle {
+    color: #fff;
+    background-color: #005de9;
+  }
+  .btn-darker:disabled, .btn-darker.disabled {
+    color: #fff;
+    background-color: #212529;
+  }
