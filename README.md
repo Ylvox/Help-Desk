@@ -15,7 +15,7 @@
 ### Funcoes principais
  - Transferência de chamados entre setores de suporte
  - Envio de email automático
- - Suporte para utilização de mais de um setor de suporte
+ - Suporta utilização de mais de um setor de suporte
  - Criação de contas de usuario para o sistema (apenas para quem dara suporte)
  - Atualização de observações do chamado
  - Reposição de peças de um chamado
